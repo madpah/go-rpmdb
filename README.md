@@ -1,5 +1,6 @@
 # go-rpmdb
-Library for enumerating packages in an RPM DB `Packages` file (without bindings).
+
+Library for enumerating packages in an RPM DB `Packages` file (without bindings). Forked from [knbqyf263](https://github.com/knqyf263/go-rpmdb).
 
 ```go
 package main

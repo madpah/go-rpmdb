@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"os"
 
-	dbi "github.com/knqyf263/go-rpmdb/pkg/db"
+	dbi "github.com/madpah/go-rpmdb/pkg/db"
 	"golang.org/x/xerrors"
 )
 
